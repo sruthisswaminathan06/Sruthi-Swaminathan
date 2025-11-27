@@ -40,10 +40,10 @@ Sri Vari Farms, India (May 2020 – Apr 2024)
 - **Retail Sales Analysis – Excel Dashboard**  
 Analyzed 800+ retail transactions and visualized trends using Excel dashboards.
 
-- **Retail Sales Analytics Dashboard
+- Retail Sales Analytics Dashboard
 
-- **Deloitte Data Analytics Virtual Experience
--  🏅 Certifications
+- Deloitte Data Analytics Virtual Experience
+## 🏅 Certifications
 - Deloitte Data Analytics  
 - Professional Scrum Master 1  
 - Advanced Excel, Power BI, SQL, Tableau  
